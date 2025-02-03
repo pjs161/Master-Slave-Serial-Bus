@@ -1,0 +1,10 @@
+# ROS 2 빌드 디렉터리 제외
+build/
+install/
+log/
+
+# 캐시 및 편집기 관련 파일 제외
+*.pyc
+__pycache__/
+.vscode/
+.idea/
